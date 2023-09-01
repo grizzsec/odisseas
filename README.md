@@ -1,6 +1,6 @@
 # Odisseas
 
-💊 Resumen de la herramienta "Odisseas":
+💊 # Resumen de la herramienta "Odisseas":
 
 La herramienta "Odisseas" es una aplicación de escritorio que permite buscar exploits en Exploit Database y analizar archivos en VirusTotal.
 
@@ -14,7 +14,7 @@ También es posible guardar los resultados en un archivo CSV o exportarlos a un 
 
 La herramienta ofrece la opción de analizar archivos en VirusTotal. El usuario debe ingresar su clave de API de VirusTotal en la interfaz gráfica y luego usar el botón "Analizar Archivo en VirusTotal" para cargar y analizar un archivo seleccionado.
 
-🧨 Cómo ejecutar la herramienta:
+🧨 # Cómo ejecutar la herramienta:
 
 Asegúrate de tener todos los módulos necesarios instalados: requests, beautifulsoup4, reportlab.
 
